@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE/Editor Files (common examples)
+.vscode/
+.idea/
+*.swp
+
+# Database / Secrets
+# NEVER commit credentials or database files
+*.db
+instance/
