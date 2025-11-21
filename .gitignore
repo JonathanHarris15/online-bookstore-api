@@ -14,5 +14,6 @@ env/
 
 # Database / Secrets
 # NEVER commit credentials or database files
+.env
 *.db
 instance/
